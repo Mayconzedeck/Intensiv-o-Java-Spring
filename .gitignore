@@ -1,0 +1,65 @@
+# Eclipse / STS
+.metadata/
+*.classpath
+*.project
+.settings/
+.apt_generated/
+.factorypath
+
+# Build
+bin/
+target/
+build/
+out/
+
+# Gradle
+.gradle/
+build/
+!gradlew
+!gradlew.bat
+
+# Maven
+.mvn/
+!mvnw
+!mvnw.cmd
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.orig
+
+# Arquivos compilados
+*.class
+*.jar
+*.war
+*.ear
+
+# Testes e relatórios
+test-output/
+surefire-reports/
+jacoco.exec
+*.ec
+*.coverage
+
+# Configuração de outras IDEs
+.vscode/
+.idea/
+*.iml
+
+# Arquivos sensíveis
+*.env
+.env
+*.key
+*.pem
+*.crt
+*.secret
+*.credentials
+
+# Backup e cache
+*~
+*.bak
+*.tmp
+*.cache
