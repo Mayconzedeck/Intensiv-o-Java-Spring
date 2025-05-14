@@ -36,6 +36,7 @@ build/
 *.jar
 *.war
 *.ear
+*.nar
 
 # Testes e relatórios
 test-output/
@@ -63,3 +64,13 @@ jacoco.exec
 *.bak
 *.tmp
 *.cache
+
+# BlueJ
+*.ctxt
+
+# J2ME
+.mtj.tmp/
+
+# JVM crash logs
+hs_err_pid*
+replay_pid*
