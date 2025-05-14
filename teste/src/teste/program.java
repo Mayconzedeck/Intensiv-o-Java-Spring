@@ -5,6 +5,8 @@ public class program {
 		
 		
 		System.out.println("HELLO WORLD!");
+		
+		System.out.println("projeto teste");
 
 	}
 }
